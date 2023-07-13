@@ -4,6 +4,9 @@ Crank and handle for a work bench
 Crank image
 ![image](https://github.com/ForrestErickson/WorkBenchCrankAndHandle/assets/5836181/9a0cd98b-8006-47fd-bc0d-d2362be96418)
 
+Handel for 1/4x20x1.5"
+![image](https://github.com/ForrestErickson/WorkBenchCrankAndHandle/assets/5836181/71aeaf7b-8c45-44bb-af2a-897c60dfbb0b)
+A 1/4-20 bold goes through the handel for ridgid attachement.
 
 Handle With Pin Attachement 
 ![image](https://github.com/ForrestErickson/WorkBenchCrankAndHandle/assets/5836181/53397e59-7c8b-4429-8bd2-460c360c2df1)
