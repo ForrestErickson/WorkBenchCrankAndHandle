@@ -19,3 +19,10 @@ A bolt about 1.5 inches long and a 7/16 head.
 Another Handle designed for compatibility with the Black and Decker crank.
 ![image](https://github.com/ForrestErickson/WorkBenchCrankAndHandle/assets/5836181/179bc3a7-a382-4b3d-8d06-59079655935e)
 This will be attached with a washer and a #10 screw.
+
+
+A body to test fit of hex bolt heads and bolt shaft
+There is an ideal bolt head and bolt shaft on left then up by 0.03 and 0.06 to the right.
+File name: HexBoltPlate-PartBody.stl
+![image](https://github.com/ForrestErickson/WorkBenchCrankAndHandle/assets/5836181/a5edaa4d-3a7b-465a-b637-c26d598c7758)
+
