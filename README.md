@@ -21,8 +21,8 @@ Another Handle designed for compatibility with the Black and Decker crank.
 This will be attached with a washer and a #10 screw.
 
 
-**File name: HexBoltPlate-PartBody.stl **
-A body to test fit of hex bolt heads and bolt shaft
+**HexBoltPlate-PartBody.stl**  
+A body to test fit of hex bolt heads and bolt shaft when 3D printed.
 There is an ideal bolt head and bolt shaft on left then up by 0.03 and 0.06 to the right.
 ![image](https://github.com/ForrestErickson/WorkBenchCrankAndHandle/assets/5836181/a5edaa4d-3a7b-465a-b637-c26d598c7758)
 
